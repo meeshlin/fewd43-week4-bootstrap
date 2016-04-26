@@ -1,0 +1,21 @@
+body {
+  padding-top:70px;
+}
+
+.margin-right-45 {
+  margin-right:45px;
+}
+
+.divider {
+  margin-top:20px;
+  margin-bottom:20px;
+  border-top:#cccccc 1px solid;
+}
+
+.padding-top-30 {
+  padding-top:30px;
+}
+
+.padding-bottom-30 {
+  padding-bottom:30px;
+}
